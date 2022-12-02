@@ -1,0 +1,117 @@
+/* Use this line to show the borders:
+ *     border: black solid 1px;
+ */
+
+* {
+    font-family: 'verdana', sans-serif;
+}
+
+
+body {
+    background-color: rgb(230, 220, 220);
+}
+
+    
+.navbar {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;  
+/*    justify-content: center;  */
+}
+
+
+h1 {
+    color: rgba(16, 25, 163, 0.699);
+
+}
+
+h2 {
+    color:crimson
+}
+
+.latin {
+    color: darkblue;
+    font-family: 'times', serif;
+    font-size: 24px
+}
+
+#lorem-text-trans{
+    display: flex;
+    flex-direction: column;
+}
+
+
+#suffering {
+    display: inline;
+    color: red;
+}
+
+#derive {
+    display: inline;
+    color: blue;
+}
+
+#fault {
+    display: inline;
+    color: brown;
+}
+
+#football {
+    font-size: 20px;
+    display: inline;
+    color: green;
+}
+
+#weekend {
+    display: inline;
+    color: rgba(41, 59, 212, 0.467);
+}
+
+#children {
+    font-size: 24px;
+    display: inline;
+    color: brown;
+}
+
+#copper {
+    display: inline;
+    color: purple;
+}
+
+#finance {
+    display: inline;
+    color: firebrick;
+}
+
+#smartphones {
+    display: inline;
+    color: darkviolet;
+}
+
+#arrows {
+    font-size: 20px;
+    display: inline;
+    color: deeppink;
+}
+#urn {
+    display: inline;
+    color: dodgerblue;
+}
+#author {
+    font-size: 18px;
+    display: inline;
+    color: cadetblue;
+}
+#chocolate {
+    font-size: 20px;
+    display: inline;
+    color: yellowgreen;
+}
+
+
+
+/*
+p {
+    display: inline;
+} 
+*/
