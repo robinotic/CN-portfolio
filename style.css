@@ -108,7 +108,13 @@ h2 {
     color: yellowgreen;
 }
 
+#cute-dog-pic {
+    align: center;
+}
 
+.smallish-font {
+    font-size: 12px;
+}
 
 /*
 p {
